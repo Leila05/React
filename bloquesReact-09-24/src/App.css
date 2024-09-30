@@ -1,0 +1,40 @@
+.contenedor{
+  width: 950px;
+  background-color: rgb(226, 223, 223);
+  margin: 0px auto;
+  padding: 15px;
+  display: flex;
+}
+.top-nav {
+  height: 150px;
+  width: 950px;
+  background-color: yellow;
+  position: absolute;
+}
+.side-nav {
+  height: 370px;
+  width: 210px;
+  background-color: rgb(116, 215, 240);
+  margin: 185px 0px 15px 15px;
+}
+.main {
+  height: 400px;
+  width: 715px;
+  background-color: rgb(184, 32, 146);
+  display: flex;
+  flex-wrap: wrap;
+  margin: 170px 0px 0px 0px;
+}
+.sub-content {
+  height: 200px;
+  width: 220px;
+  background-color: blue;
+  text-align: right;
+  margin: 15px 8px;
+}
+.advertisement {
+  height: 120px;
+  width: 670px;
+  background-color: rgb(79, 190, 79);
+  margin: 5px 15px 20px;
+}
