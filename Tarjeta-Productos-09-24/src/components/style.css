@@ -1,0 +1,21 @@
+.product{
+    padding: 20px 15px 10px 15px;
+}
+h3{
+    margin: 10px;
+    text-align: center;
+}
+p{
+    margin: 10px;
+}
+.disponible{
+    color: green;
+}
+.agotado{
+    color:red;
+}
+.img-producto{
+    width: 10rem;
+    height: 10rem;
+    margin-left: 4rem;
+}
